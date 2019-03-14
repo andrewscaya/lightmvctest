@@ -33,7 +33,8 @@
             "Application\\Middleware\\": "middleware/Application/Middleware",
             "Application\\Controllers\\": "controllers/Application/Controllers",
             "Application\\Services\\": "controllers/Application/Services",
-            "Specialmodule\\Controllers\\": "controllers/Specialmodule/Controllers"
+            "Specialmodule\\Controllers\\": "controllers/Specialmodule/Controllers",
+            "Strangemodule\\Controllers\\": "controllers/Strangemodule/Controllers"
         }
     },
     "autoload-dev": {

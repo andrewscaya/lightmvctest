@@ -26,4 +26,14 @@ $baseConfig['routes'] = [
         '/admin[/{action}]',
         'specialmodule/index',
     ],
+    5 => [
+        'GET',
+        '/blabla',
+        'blabla',
+    ],
+    6 => [
+        'GET',
+        '/strangefoo',
+        'strangemodule/foo',
+    ],
 ];
